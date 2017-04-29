@@ -1,4 +1,4 @@
-Feature: Search in Google for Hot Chicks!
+Feature: LogInJenkins
 
   @complete
   Scenario: Log In jenkins

@@ -1,4 +1,4 @@
-Feature: Search in Google for Hot Chicks!
+Feature: CreateAJobInJenkins
 
   @complete
   Scenario: Log In jenkins
